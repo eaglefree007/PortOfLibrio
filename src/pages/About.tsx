@@ -7,15 +7,18 @@ export function About() {
             data-locale="en_US"
             data-size="medium"
             data-theme="light"
-            data-type="VERTICAL"
-            data-vanity="YOUR_OWN_VANITY_HERE"
+            data-type="HORIZONTAL"
+            data-vanity="eaglefree007"
             data-version="v1"
           >
            <a
               className="badge-base__link LI-simple-link"
-              href="https://au.linkedin.com/in/YOUR_PROFILE_HERE?trk=profile-badge"
+              href="https://in.linkedin.com/in/eaglefree007?trk=profile-badge"
             >eaglefree007</a>
           </div>
         </div>              
   </> 
 }
+
+
+              
