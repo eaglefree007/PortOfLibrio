@@ -10,9 +10,9 @@ function App(){
   return <ShoppingCartProvider>
     <Navbar />
     <Routes>
-      <Route path="/" element={<Home />} />
+      <Route path="/" element={<Store />} />
       <Route path="/about" element={<About />} />
-      <Route path="/store" element={<Store />} />
+      <Route path="/store" element={<Home />} />
     </Routes>
   </ShoppingCartProvider> 
   
